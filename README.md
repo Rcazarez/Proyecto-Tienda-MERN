@@ -3,7 +3,7 @@
 <h3>Grupo 2-4</h3>
 
 
-![Imagen](/Frontend/public/Demo-page.png)
+![Imagen](./Frontend/public/Demo-page.png)
 
 En la terminal:
 <p>npm run build</p>
